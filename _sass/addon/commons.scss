@@ -705,7 +705,7 @@ $sidebar-display: "sidebar-display";
   background: var(--sidebar-bg);
 
   /* [yjinjo] Add Background Image */
-  background: url('/assets/img/backgrounds/new_jeans.jpg');
+  background: url('/assets/img/backgrounds/new_jeans_crop.jpg');
   background-size: 100% 100%;
   background-position: center;
 
@@ -724,7 +724,9 @@ $sidebar-display: "sidebar-display";
     &:hover {
       @include no-text-decoration;
 
-      color: var(--sidebar-active-color) !important;
+      //[yjinjo] Change color when it is hovered
+      //color: var(--sidebar-active-color) !important;
+      color: rgba(0, 0, 0, 0.9);
     }
   }
 
@@ -770,13 +772,17 @@ $sidebar-display: "sidebar-display";
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
-      color: rgba(134, 133, 133, 0.99);
+      //[yjinjo] Change sidebar title color
+      //color: rgba(134, 133, 133, 0.99);
+      color: rgba(0, 0, 0, 0.70);
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--sidebar-muted-color);
+    //[yjijo] Change subtitle title color
+    //color: var(--sidebar-muted-color);
+    color: rgba(0, 0, 0, 0.65);
     line-height: 1.25rem;
     word-spacing: 1px;
     margin: 0.2rem 1.5rem 0.5rem 1.5rem;
@@ -802,7 +808,8 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
-        color: var(--sidebar-active-color);
+        //color: var(--sidebar-active-color);
+        color: rgba(0, 0, 0, 0.9);
       }
     }
 
@@ -958,7 +965,6 @@ $sidebar-display: "sidebar-display";
   z-index: 50;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
   background-color: var(--topbar-wrapper-bg);
-
   [data-topbar-visible="false"] & {
     top: -$topbar-height; /* same as topbar height. */
   }
