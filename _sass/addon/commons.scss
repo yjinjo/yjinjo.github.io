@@ -704,14 +704,19 @@ $sidebar-display: "sidebar-display";
   z-index: 99;
   background: var(--sidebar-bg);
 
+  /* [yjinjo] Add Background Image */
+  background: url('/assets/img/backgrounds/new_jeans.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
     display: none;
   }
 
   /* Hide scrollbar for IE, Edge and Firefox */
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 
   a {
     @extend %sidebar-links;
@@ -752,7 +757,9 @@ $sidebar-display: "sidebar-display";
         transform: scale(1.2);
       }
     }
-  } /* #avatar */
+  }
+
+  /* #avatar */
 
   .site-title {
     margin-top: 0.55rem;
@@ -832,7 +839,9 @@ $sidebar-display: "sidebar-display";
           pointer-events: none;
         }
       }
-    } /* li */
+    }
+
+    /* li */
 
     @mixin fix-cursor($top) {
       top: $top;
@@ -856,8 +865,11 @@ $sidebar-display: "sidebar-display";
           @include fix-cursor($top);
         }
       }
-    } /* @for */
-  } /* ul */
+    }
+    /* @for */
+  }
+
+  /* ul */
 
   .sidebar-bottom {
     margin-bottom: 2.1rem;
@@ -907,7 +919,9 @@ $sidebar-display: "sidebar-display";
       height: 3px;
       border-radius: 50%;
     }
-  } /* .sidebar-bottom */
+  }
+
+  /* .sidebar-bottom */
 } /* #sidebar */
 
 @media (hover: hover) {
