@@ -8,13 +8,13 @@ order: 4
 [//]: # ({: .prompt-tip })
 
 ## Youngjin Jo
-Hello hitchhiker. Welcome to my universe.
+Hello, hitchhiker who travel the internet. Welcome to my universe.
 
-### GitHub
+### Observable Universe
 [💻 yjinjo | GitHub](https://github.com/yjinjo){:target="_blank"}
 
-### Voyager
-[🎼 Fav | Youtube](https://www.youtube.com/watch?v=2IfVBDD3Fvs&list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5){:target="_blank"}
+### Voyager 1
+[🎧 Code with me | YouTube](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7QcXxDHfsDW0Pidql3Yhvp){:target="_blank"}
 
-[🎧 Code with me | Youtube](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7QcXxDHfsDW0Pidql3Yhvp){:target="_blank"}
-
+### Voyager 2
+[🎼 Fav | YouTube](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5){:target="_blank"}
