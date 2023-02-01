@@ -1,11 +1,11 @@
 ---
 title: 우설 그리고 해린
 date: 2023-01-31 00:00:00
-img_path: ../assets/img/posts/2023-01/2023-01-31/
+img_path: /img/posts/2023-01/2023-01-31/
 categories: [Life, Daily]
 ---
 
-![img-description](../assets/img/posts/2023-01/2023-01-31/IMG_0502.JPG){: .shadow }
+![new jeans](IMG_0502.JPG)
 _요즘 내 플레이리스트는 뉴진스로 맞춰져있잖슴~ㅎㅎ_
 
 버니도 너무 귀엽당 아이돌은 전혀 관심없었는데 Ditto 노래를 들은 후
