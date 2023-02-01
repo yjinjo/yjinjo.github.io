@@ -25,7 +25,7 @@ _아무도 가지 않는 길_
 
 ![4](4.jpg){: .shadow }
 
-J가 보고 이 짤을 보여줬는데 너무 웃겼닼ㅋㅋㅋㅋㅋㅋㅋ 혹시 짤의 출처를 알고싶다면 [여기로](https://www.youtube.com/watch?v=MW9rOVgKDMU) ㅋㅋㅋㅋㅋㅋㅋ
+J가 보고 이 짤을 보여줬는데 너무 웃겼닼ㅋㅋㅋㅋㅋㅋㅋ 혹시 짤의 출처를 알고싶다면 [여기로](https://www.youtube.com/watch?v=MW9rOVgKDMU){:target="_blank"} ㅋㅋㅋㅋㅋㅋㅋ
 
 ![5](5.jpg){: .shadow }
 _사진과 에피소드는 관련없음ㅎ_
