@@ -1,7 +1,7 @@
 ---
 title: 우설 그리고 해린
 date: 2023-01-31 00:00:00
-img_path: assets/img/posts/p2023-01/p2023-01-31
+img_path: /assets/img/posts/p2023-01/p2023-01-31
 categories: [Life, Daily]
 ---
 
