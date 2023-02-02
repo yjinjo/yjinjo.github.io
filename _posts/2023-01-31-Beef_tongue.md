@@ -27,8 +27,6 @@ _아무도 가지 않는 길_
 
 J가 보고 이 짤을 보여줬는데 너무 웃겼닼ㅋㅋㅋㅋㅋㅋㅋ 혹시 짤의 출처를 알고싶다면 [여기로](https://www.youtube.com/watch?v=MW9rOVgKDMU){:target="_blank"} ㅋㅋㅋㅋㅋㅋㅋ
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=MW9rOVgKDMU" frameborder="0" allowfullscreen></iframe>
-
 ![5](5.jpg){: .shadow }
 _사진과 에피소드는 관련없음ㅎ_
 
