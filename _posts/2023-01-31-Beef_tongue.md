@@ -5,7 +5,7 @@ img_path: /assets/img/posts/p2023-01/p2023-01-31
 categories: [Life, Daily]
 ---
 
-![1](1.JPG){: .shadow 10px 5px 5px red }
+![1](1.JPG){: .shadow }
 _요즘 내 플레이리스트는 뉴진스로 맞춰져있잖슴~ㅎㅎ_
 
 버니도 너무 귀엽당 아이돌은 전혀 관심없었는데 Ditto 노래를 들은 후
@@ -26,6 +26,8 @@ _아무도 가지 않는 길_
 ![4](4.jpg){: .shadow }
 
 J가 보고 이 짤을 보여줬는데 너무 웃겼닼ㅋㅋㅋㅋㅋㅋㅋ 혹시 짤의 출처를 알고싶다면 [여기로](https://www.youtube.com/watch?v=MW9rOVgKDMU){:target="_blank"} ㅋㅋㅋㅋㅋㅋㅋ
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=MW9rOVgKDMU" frameborder="0" allowfullscreen></iframe>
 
 ![5](5.jpg){: .shadow }
 _사진과 에피소드는 관련없음ㅎ_
