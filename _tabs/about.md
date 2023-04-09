@@ -14,7 +14,7 @@ Hello, hitchhiker who travel the internet. Welcome to my universe.
 [💻 yjinjo | GitHub](https://github.com/yjinjo){:target="_blank"}
 
 ### Daily
-[📷 into__verse | Instagram](https://www.instagram.com/into__verse){:target="_blank"}
+[📷 yjinjo.log | Instagram](https://www.instagram.com/yjinjo.log){:target="_blank"}
 
 ### I'm listening now
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cgvdeinh2binzwsu6rm5t2zx2q&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31cgvdeinh2binzwsu6rm5t2zx2q&redirect=true)
